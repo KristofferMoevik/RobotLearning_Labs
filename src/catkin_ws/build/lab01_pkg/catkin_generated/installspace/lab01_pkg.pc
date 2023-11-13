@@ -1,0 +1,8 @@
+prefix=/home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/install
+
+Name: lab01_pkg
+Description: Description of lab01_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

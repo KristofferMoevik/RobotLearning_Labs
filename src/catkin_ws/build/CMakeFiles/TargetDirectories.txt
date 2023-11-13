@@ -57,3 +57,15 @@
 /home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/build/beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir
 /home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/build/beginner_tutorials/CMakeFiles/roscpp_generate_messages_lisp.dir
 /home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/build/beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_py.dir
+/home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/build/lab01_pkg/CMakeFiles/install/strip.dir
+/home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/build/lab01_pkg/CMakeFiles/install/local.dir
+/home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/build/lab01_pkg/CMakeFiles/install.dir
+/home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/build/lab01_pkg/CMakeFiles/list_install_components.dir
+/home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/build/lab01_pkg/CMakeFiles/rebuild_cache.dir
+/home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/build/lab01_pkg/CMakeFiles/edit_cache.dir
+/home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/build/lab01_pkg/CMakeFiles/test.dir
+/home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/build/lab01_pkg/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir
+/home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/build/lab01_pkg/CMakeFiles/geometry_msgs_generate_messages_py.dir
+/home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/build/lab01_pkg/CMakeFiles/geometry_msgs_generate_messages_lisp.dir
+/home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/build/lab01_pkg/CMakeFiles/geometry_msgs_generate_messages_eus.dir
+/home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/build/lab01_pkg/CMakeFiles/geometry_msgs_generate_messages_cpp.dir

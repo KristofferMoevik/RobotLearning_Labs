@@ -7,4 +7,3 @@
 # new environment variables
 
 # modified environment variables
-export PWD='/home/kristoffer/Documents/Skole/Robot learning/RobotLearning_Labs/src/catkin_ws/build'
